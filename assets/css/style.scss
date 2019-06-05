@@ -4,7 +4,22 @@
 @import "{{ site.theme }}";
 
 body{
-    
-    //background-color: lightskyblue;
+    background-color: white;
     font-family: 'Roboto', sans-serif;
+    list-style-type:circle;
+}
+
+/* unvisited link */
+a:link {
+  color: deepskyblue;
+}
+
+/* visited link */
+a:visited {
+  color:darkblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: darkorange;
 }
