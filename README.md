@@ -1,24 +1,34 @@
 ## EDUCATION
 
 2016 – present
-####Master of Science - Computer and Information Science####
+#### Master of Science - Computer and Information Science ####
 University of Konstanz, Konstanz, Germany
 
 2011 – 2015
-####Bachelor of Science - Business Information Technology####
+#### Bachelor of Science - Business Information Technology ####
 University of Applied Sciences Northwestern Switzerland, Olten, Switzerland
 
 ## PROJECTS
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+#### Information Dashboards in Augmented Reality ####
+Lorem Ipsum
+
+#### Crime Blocks ####
+Lorem Ipsum
+
+#### Stormy ####
+Lorem Ipsum
+
+
 
 ## SKILLS
 
-####Development ####
+#### Development ####
 HTML, CSS Good
 C#, JavaScript, SQL Basic knowledge
 
-####Languages####
+#### Languages ####
 (Swiss) German - Native 
 English - Professional (FCE, BEC)
 
