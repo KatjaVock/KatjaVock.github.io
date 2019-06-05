@@ -1,16 +1,13 @@
 ## EDUCATION
 
 2016 – present
-
 **Master of Science - Computer and Information Science**
-
 University of Konstanz, Konstanz, Germany
 
 
+
 2011 – 2015
-
 **Bachelor of Science - Business Information Technology**
-
 University of Applied Sciences Northwestern Switzerland, Olten, Switzerland
 
 ## PROJECTS
@@ -33,7 +30,7 @@ Lorem Ipsum
 - **HTML, CSS** - Good
 - **C#, JavaScript, SQL** - Basic knowledge
 
-#### Languages#### 
+**Languages** 
 - **(Swiss) German** - Native 
 - **English** - Professional (FCE, BEC)
 
