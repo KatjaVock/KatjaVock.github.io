@@ -6,18 +6,17 @@
 body{
     background-color: white;
     font-family: 'Roboto', sans-serif;
-    list-style-type:circle;
+}
+
+ul{  list-style-type:circle;
 }
 
 /* unvisited link */
 a:link {
   color: deepskyblue;
+    font-weight:400;
 }
 
-/* visited link */
-a:visited {
-  color:darkblue;
-}
 
 /* mouse over link */
 a:hover {
