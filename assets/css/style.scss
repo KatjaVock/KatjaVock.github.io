@@ -1,47 +1,51 @@
----
----
-
+--- 
+--- 
 @import "{{ site.theme }}";
 
-body{
+body {
     background-color: white;
     font-family: 'Roboto', sans-serif;
 }
 
-ul{  list-style-type:circle;
+ul {
+    list-style-type: circle;
 }
 
-h1{
-    color: #ACD7F2;
+h1 {
+    color: #6AAED9;
+    font-weight: 700;
 }
 
-/* unvisited link */
+h2 {
+    color: #6AAED9;
+    margin-top:40px;
+}
+
 a:link {
-  color: #5FAAD9;
-    font-weight:400;
+    color: #5FAAD9;
+    font-weight: 400;
 }
 
 a:visited {
-  color: #5FAAD9;
- font-weight:400;
+    color: #5FAAD9;
+    font-weight: 400;
 }
 
-
-/* mouse over link */
 a:hover {
-  color: #126DA6;
+    color: #126DA6;
 }
 
-#LinkedIn:hover
-{
-   background-image: url("/assets/img/linkedin_blue.png");
+#LinkedIn:hover {
+    background-image: url("/assets/img/linkedin_blue.png");
 }
 
-#Xing:hover{
+#Xing {
+    background-image: url("/assets/img/xing_grey.png");
+}
+#Xing:hover {
     background-image: url("/assets/img/xing_green.png");
 }
 
-.mark{
-    
+.mark {
     background-color: #ACD7F2;
 }
