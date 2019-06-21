@@ -1,2 +1,3 @@
-theme: ubuild-jekyll
-titel: Katja Vock
+theme: jekyll-theme-minimal
+titel: [Katja Vock]
+gem "github-pages", group: :jekyll_plugins
