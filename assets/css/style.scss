@@ -1,7 +1,4 @@
---- 
---- 
-@import "{{ site.theme }}";
-
+--- --- @import "{{ site.theme }}";
 body {
     background-color: white;
     font-family: 'Roboto', sans-serif;
@@ -18,7 +15,7 @@ h1 {
 
 h2 {
     color: #6AAED9;
-    margin-top:40px;
+    margin-top: 40px;
 }
 
 a:link {
@@ -37,15 +34,34 @@ a:hover {
 
 #LinkedIn:hover {
     background-image: url("/assets/img/linkedin_blue.png");
+    width: 24px;
+    height: 24px;
 }
 
 #Xing {
     background-image: url("/assets/img/xing_grey.png");
+    width: 24px;
+    height: 24px;
 }
+
 #Xing:hover {
     background-image: url("/assets/img/xing_green.png");
+    width: 24px;
+    height: 24px;
 }
 
 .mark {
     background-color: #ACD7F2;
+}
+
+.wrapper {
+    width: 1000px;
+}
+
+#header {
+    width: 300px;
+}
+
+#section {
+    width: 700px;
 }
