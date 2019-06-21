@@ -1,5 +1,3 @@
-{{ Katja Vock }}
-
 ## EDUCATION
 
 2016 – present  
