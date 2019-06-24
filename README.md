@@ -1,3 +1,26 @@
+## PROJECTS
+
+
+#### Information Dashboards in Augmented Reality ####
+Lorem Ipsum
+
+#### Crime Blocks ####
+
+<video src="/assets/video/CrimeBlock.mp4" type="video/mp4" width="320" height="240" > </video>
+
+- Virtual Reality application to analyze Criminal data of Chicago
+- Group project
+
+#### AR TaiChi ####
+
+- Perspective Avatar Guidance
+- Group project
+
+#### To be afraid or not to be afraid ####
+- Virtual Reality application to analyze Criminal data of Chicago
+- Group project
+
+
 ## EDUCATION
 
 2016 – present  
@@ -9,20 +32,6 @@ University of Konstanz, Konstanz, Germany
 2011 – 2015  
 **Bachelor of Science - Business Information Technology**  
 University of Applied Sciences Northwestern Switzerland, Olten, Switzerland  
-
-## PROJECTS
-
-
-#### Information Dashboards in Augmented Reality ####
-Lorem Ipsum
-
-#### Crime Blocks ####
-Lorem Ipsum
-
-#### Stormy ####
-Lorem Ipsum
-
-
 
 ## SKILLS
 
