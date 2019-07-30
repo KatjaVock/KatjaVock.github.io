@@ -9,6 +9,10 @@ Combining a mobile device with augmented reality glasses in the context of visua
 
 <video src="/assets/video/CrimeBlock.mp4" type="video/mp4" width="320" height="240" > </video>
 
+<video width="480" height="320" controls="controls">
+  <source src="/assets/video/CrimeBlock.mp4" type="video/mp4">
+</video>
+
 - Virtual Reality application to analyze Criminal data of Chicago
 - Group project
 
