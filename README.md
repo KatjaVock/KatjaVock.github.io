@@ -1,11 +1,23 @@
 ## CASE STUDIES
 
 
-#### IDIAR - Information Dashboards in Augmented Reality ####
+### IDIAR - Information Dashboards in Augmented Reality ###
 
 Combining a mobile device with augmented reality glasses in the context of visual analytics
 
-#### Crime Blocks ####
+
+### LikeHike Application ###
+
+Design of a mobile fitness application for smartphones
+
+- Perspective Avatar Guidance
+- Group project
+
+### HRSC Website ###
+Design and implementation of a website for the newly founded company HRSC including a content management system
+
+
+### Crime Blocks ###
 
 <video src="/assets/video/CrimeBlock.mp4" type="video/mp4" width="320" height="240" > </video>
 
@@ -15,16 +27,6 @@ Combining a mobile device with augmented reality glasses in the context of visua
 
 - Virtual Reality application to analyze Criminal data of Chicago
 - Group project
-
-#### LikeHike Application ####
-
-Design of a mobile fitness application for smartphones
-
-- Perspective Avatar Guidance
-- Group project
-
-#### HRSC Website ####
-Design and implementation of a website for the newly founded company HRSC including a content management system
 
 
 ## EDUCATION

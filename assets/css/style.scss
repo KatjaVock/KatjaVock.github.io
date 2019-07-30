@@ -1,7 +1,4 @@
----
----
-@import "{{ site.theme }}";
-
+--- --- @import "{{ site.theme }}";
 body {
     background-color: white;
     font-family: 'Roboto', sans-serif;
@@ -12,12 +9,12 @@ ul {
 }
 
 h1 {
-    color: #6AAED9;
+    color: #5FAAD9;
     font-weight: 700;
 }
 
 h2 {
-    color: #6AAED9;
+    color: #5FAAD9;
     margin-top: 40px;
 }
 
@@ -36,7 +33,9 @@ a:hover {
 }
 
 .Link {
-    text-decoration: underline;
+    border-color: white;
+    border-bottom: 1px solid #000;
+    padding-bottom: 2px;
     color: #5FAAD9;
     padding: 4px;
 }
@@ -46,16 +45,16 @@ a:hover {
     background-color: #5FAAD9;
     text-decoration: none;
     padding: 4px;
+    border-color: #5FAAD9;
 }
 
 .mark {
-    background-color: #5FAAD9;
-//        #ACD7F2;
-    color: white;
+    color: #5FAAD9;
+    font-family: 'Roboto Medium', sans-serif;
 }
 
 .wrapper {
-    width: 1050px;
+    width: 850px;
 }
 
 .header {
@@ -63,5 +62,5 @@ a:hover {
 }
 
 .section {
-    width: 700px;
+    width: 500px;
 }
