@@ -10,8 +10,6 @@ Combining a mobile device with augmented reality glasses in the context of visua
 
 Design of a mobile fitness application for smartphones
 
-- Perspective Avatar Guidance
-- Group project
 
 ### HRSC Website ###
 Design and implementation of a website for the newly founded company HRSC including a content management system
