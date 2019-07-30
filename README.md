@@ -19,12 +19,6 @@ Design and implementation of a website for the newly founded company HRSC includ
 
 ### Crime Blocks ###
 
-<video src="/assets/video/CrimeBlock.mp4" type="video/mp4" width="320" height="240" > </video>
-
-<video width="480" height="320" controls="controls">
-  <source src="/assets/video/CrimeBlock.mp4" type="video/mp4">
-</video>
-
 - Virtual Reality application to analyze Criminal data of Chicago
 - Group project
 
