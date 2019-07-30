@@ -1,8 +1,9 @@
-## PROJECTS
+## CASE STUDIES
 
 
-#### Information Dashboards in Augmented Reality ####
-Lorem Ipsum
+#### IDIAR - Information Dashboards in Augmented Reality ####
+
+Combining a mobile device with augmented reality glasses in the context of visual analytics
 
 #### Crime Blocks ####
 
@@ -11,14 +12,15 @@ Lorem Ipsum
 - Virtual Reality application to analyze Criminal data of Chicago
 - Group project
 
-#### AR TaiChi ####
+#### LikeHike Application ####
+
+Design of a mobile fitness application for smartphones
 
 - Perspective Avatar Guidance
 - Group project
 
-#### To be afraid or not to be afraid ####
-- Virtual Reality application to analyze Criminal data of Chicago
-- Group project
+#### HRSC Website ####
+Design and implementation of a website for the newly founded company HRSC including a content management system
 
 
 ## EDUCATION
@@ -43,10 +45,4 @@ University of Applied Sciences Northwestern Switzerland, Olten, Switzerland
 - **(Swiss) German** - Native 
 - **English** - Professional (FCE, BEC)
 
-## PERSONAL INTERESTS
 
-- **Reading** - Favourite genres are dystopias and literary fiction
-- **Swimming** - Attending biweekly technical training at university sport
-- **Personal development** - Participated university courses in communication and self-presentation, social competence training, speech training and stress management
-- **Plants** - Gardening and caring for houseplants
-- **Riddles** - Solving Bimaru, Logical and Sudoku

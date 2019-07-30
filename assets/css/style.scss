@@ -1,8 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
-
+--- --- @import "{{ site.theme }}";
 body {
     background-color: white;
     font-family: 'Roboto', sans-serif;
@@ -19,7 +15,7 @@ h1 {
 
 h2 {
     color: #6AAED9;
-    margin-top:40px;
+    margin-top: 40px;
 }
 
 a:link {
@@ -36,40 +32,27 @@ a:hover {
     color: #126DA6;
 }
 
-.LinkedIn {
-    background-image: url("/assets/img/linkedin_grey.png");
-    width: 24px;
-    height: 24px;
-    width: 24px;
-    height: 24px;
+.Link {
+    text-decoration: underline;
+    color: #5FAAD9;
+    padding: 4px;
 }
 
-
-.LinkedIn:hover {
-    background-image: url("/assets/img/linkedin_blue.png");
-    width: 24px;
-    height: 24px;
-}
-
-
-.Xing {
-    background-image: url("/assets/img/xing_grey.png");
-    width: 24px;
-    height: 24px;
-}
-.Xing:hover {
-    background-image: url("/assets/img/xing_green.png");
-    width: 24px;
-    height: 24px;
+.Link:hover {
+    color: white;
+    background-color: #5FAAD9;
+    text-decoration: none;
+    padding: 4px;
 }
 
 .mark {
-    background-color: #ACD7F2;
+    background-color: #5FAAD9;
+//        #ACD7F2;
+    color: white;
 }
 
-
 .wrapper {
-    width: 1000px;
+    width: 1050px;
 }
 
 .header {
