@@ -1,4 +1,4 @@
 
 titel: [Katja Vock]
 gem "github-pages", group: :jekyll_plugins
-remote_theme: samesies/barber-jekyll
+theme: jekyll-sleek
