@@ -4,7 +4,7 @@ author: KatjaVock # You :P
 description: > # Meta description of Homepage
  Motivated and curious graduated computer and information science student with specialization in human computer interaction and data visualization with a history of working within finance as well as e-commerce.
  Having an analytical and pragmatic mindset with a wide focus on user experience and aspiring to gather work experience.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://katjavock.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
@@ -20,7 +20,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Work', link: '/'}
+  - {name: 'Work2', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
